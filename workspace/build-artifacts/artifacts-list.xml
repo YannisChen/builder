@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="workspace artifacts">
+<!-- THIS IS A GENERATED FILE.  Any changes you make will be destroyed. -->
+    <property name="feature_com.tibco.devtools.workspace.test" value="1.11.0.DEV-2016-03-16-0852-YANNIS" />
+    <property name="plugin_com.tibco.devtools.workspace.test-test.com.tibco.devtools.workspace.installer" value="1.11.0.DEV-2016-03-16-0852-YANNIS" />
+    <property name="feature_com.tibco.devtools.workspace" value="1.11.0.DEV-2016-03-16-0852-YANNIS" />
+    <property name="plugin_com.tibco.devtools.workspace-com.tibco.devtools.workspace.installer" value="1.11.0.DEV-2016-03-16-0852-YANNIS" />
+</project>

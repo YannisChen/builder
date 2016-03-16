@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Neo Common Data Modeling Plug-in
+Bundle-SymbolicName: com.tibco.neo.model2; singleton:=true
+Bundle-Version: 2.0.0.qualifier
+Bundle-Classpath: .
+Bundle-Activator: com.tibco.neo.component.osgi.NeoOSGiBundleActivator
+Bundle-Vendor: TIBCO Software Inc.
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.tibco.devtools.workspace"
+      label="TIBCO Eclipse Workspace Automation Feature"
+      version="1.11.0.qualifier"
+      provider-name="TIBCO Software Inc.">
+
+   <description url="http://www.example.com/description">
+      Automates workspace installation and manipulation; dependencies; integration with builder.
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="4.4.0" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="com.tibco.devtools.workspace.installer"
+         download-size="0"
+         install-size="0"
+         version="1.11.0.qualifier"
+         unpack="false"/>
+
+</feature>

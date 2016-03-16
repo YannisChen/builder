@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: test.com.tibco.devtools.workspace.installer
+Bundle-SymbolicName: test.com.tibco.devtools.workspace.installer
+Bundle-Version: 1.11.0.qualifier
+Fragment-Host: com.tibco.devtools.workspace.installer;bundle-version="[1.11.0,2.0.0)"
+Require-Bundle: org.junit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

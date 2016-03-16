@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.tibco.devtools.workspace.environment"
+      label="Not A Real Feature!"
+      version="1.0.0"
+      provider-name="TIBCO Software Inc.">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+     <import feature="##eclipse.platform.sdk" version="3.2.2" match="perfect" />
+     <import feature="org.tigris.subversion.subclipse" version="1.2.0" match="greaterOrEqual"/>
+   </requires>
+   
+</feature>

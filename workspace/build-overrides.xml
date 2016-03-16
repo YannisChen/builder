@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TIBCO Eclipse Workspace Automation Overrides">
+
+    <!-- Each Release Unit should change the project name above and the two
+         property definitions below. -->
+    <property name="release-unit" value="workspace" />
+    <property name="feature" value="com.tibco.devtools.workspace" />
+
+    <!-- The repository name is only used to separate release unit configurations,
+         preventing confusion of thirdparty common with neo common, for instance. -->
+    <property name="autobuild.repository" value="devtools" />
+    <property name="autobuild.obfuscator.style" value="package" />
+
+    <property name="autobuild.version.eclipse" value="4.4" />
+    <property name="autobuild.version.developer.eclipse" value="4.4" />
+
+    <!-- the properties for using the jdk 1.7 -->
+    <property name="javacSource" value="1.7" />
+    <property name="javacTarget" value="1.7" />
+    <property name="autobuild.jdk.force-17" value="true" />
+
+</project>

@@ -1,0 +1,1 @@
+com.tibco.tpcl.emf 2.4.2.002 org.eclipse.emf 2.4.2.foo

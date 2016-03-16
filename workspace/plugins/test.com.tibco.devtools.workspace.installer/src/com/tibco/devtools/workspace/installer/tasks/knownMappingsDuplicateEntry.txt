@@ -1,0 +1,4 @@
+# This is a sample file with a duplicate entry line that should cause known mappings to choke
+com.tibco.tpcl.emf 1.2.0.002 org.eclipse.emf 2.4.0.foo
+com.tibco.tpcl.emf 1.2.0.002 org.eclipse.duplicate 2.4.1.foo
+

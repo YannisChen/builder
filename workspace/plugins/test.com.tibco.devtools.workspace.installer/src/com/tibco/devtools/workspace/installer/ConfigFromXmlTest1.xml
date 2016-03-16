@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration xmlns="http://www.tibco.com/namespaces/workspaceInstaller/2006/12">
+
+	<extensionLocation>/home/test/myextensionLocation1</extensionLocation>
+	<localSiteCache>/home/test/tibco-build/workspaceInstaller/local-site-cache</localSiteCache>
+	<matchLatest>false</matchLatest>
+	<outputFolder>/home/test/tibco-build/outputFolder</outputFolder>
+
+	<featureSearchPath>/home/test/featurePath1</featureSearchPath>
+	<featureSearchPath>/home/test/featurePath2</featureSearchPath>
+
+	<otherFeature>/home/test/otherFeature1</otherFeature>
+	<otherFeature>/home/test/otherFeature</otherFeature>
+
+	<projectSearchPath>/home/test/projectPath1</projectSearchPath>
+	<projectSearchPath>/home/test/projectPath2</projectSearchPath>
+
+	<testFeature>/home/test/testFeature1</testFeature>
+	<testFeature>/home/test/testFeature2</testFeature>
+
+	<updateSite>http://www.example.com/updateSite1</updateSite>
+	<updateSite>http://www.example.com/updateSite2</updateSite>
+
+	<excludeFromBuildItems>com.tibco.example.exclude.one</excludeFromBuildItems>
+	<excludeFromBuildItems>com.tibco.example.exclude.two</excludeFromBuildItems>
+
+</configuration>

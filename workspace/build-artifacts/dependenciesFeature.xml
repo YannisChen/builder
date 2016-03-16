@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feature id="workspace.extension.site"
+         version="2.1.0.001.2016-03-16-0852"
+         label="workspace Dependencies Feature">
+    <requires>
+    </requires>
+</feature>

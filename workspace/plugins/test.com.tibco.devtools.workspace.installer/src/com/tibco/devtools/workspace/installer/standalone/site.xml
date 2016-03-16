@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+  <feature url="features/com.tibco.corona.resource.ui_1.1.0.001.jar" id="com.tibco.corona.resource.ui" version="1.1.0.001"/>
+  <feature url="features/com.tibco.corona.resource.ui_1.1.2.002.jar" id="com.tibco.corona.resource.ui" version="1.1.2.002"/>
+  <feature url="features/com.tibco.tpcl.xml_1.0.1.001.jar" id="com.tibco.tpcl.xml" version="1.0.1.001"/>
+</site>

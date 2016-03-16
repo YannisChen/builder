@@ -1,0 +1,16 @@
+TODO Items:
+===========
+
+* 
+* Substitute metadata for broken Eclipse features
+
+* Authentication for update sites
+
+* Generate an IntelliJ workspace equivalent to the Eclipse workspace
+
+Testing
+-------
+* All of devtools
+
+Done
+----

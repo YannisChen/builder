@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Workspace Installer Plugin
+Bundle-SymbolicName: com.tibco.devtools.workspace.installer ;singleton:=true
+Main-Class: com.tibco.devtools.workspace.installer.CommandLine
+Bundle-Version: 1.9.100.qualifier
+Bundle-Vendor: TIBCO Software Inc.
+Require-Bundle: org.eclipse.update.core;bundle-version="[3.2.0,4.0.0)",
+ org.eclipse.core.resources;bundle-version="[3.2.0,4.0.0)",
+ org.apache.ant;bundle-version="[1.6.5,2.0.0)";resolution:=optional,
+ org.eclipse.core.runtime;bundle-version="[3.2.0,4.0.0)"
+Bundle-ClassPath: .
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

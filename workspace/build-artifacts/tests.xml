@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name="com.tibco.devtools.workspace.test" 
+         basedir="E:\work\repo\builder\sandboxes\builder\workspace" >
+    <property value="release/eclipse" 
+              name="test.flavor" />
+</project>
