@@ -1,9 +1,0 @@
-feature.a 1.0.0.001
-feature.a 1.0.0.002
-feature.a 1.1.0.001
-feature.a 1.1.0.002
-
-feature.a.eclipse 1.1.0.002
-
-com.tibco.amf.common.model.feature 2.1.0.001
-com.tibco.amf.common.model.feature.eclipse 2.1.0.001

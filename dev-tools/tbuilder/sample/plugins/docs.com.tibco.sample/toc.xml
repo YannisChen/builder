@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Simple Sample Feature Documentation"
+     topic="html/index.html">
+    <topic label="Getting Started"
+           href="html/overview/index.html">
+        <anchor id="gettingstarted" />
+    </topic>
+    <topic label="Reference"
+           href="html/reference/index.html">
+        <anchor id="reference" />
+        <topic label="Javadoc API Reference"
+               href="html/reference/javadoc/index.html" />
+    </topic>
+    <topic label="Tutorials"
+           href="html/tutorials/index.html">
+        <anchor id="tutorials" />
+    </topic>
+</toc>

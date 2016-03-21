@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<aDocument xmlns="http://www.example.com/namespaces/testing">
-	<childOne>childOne contents</childOne>
-	<childTwo>item1</childTwo>
-	<childTwo>item2</childTwo>
-	<childTwo>item3</childTwo>
-	<childTwo>item4</childTwo>
-</aDocument>

@@ -1,0 +1,126 @@
+Property "local.update.site" has not been set
+[evaluate.dependencies] Using the following starting features:
+[evaluate.dependencies]   com.tibco.sample.feature_1.0.0.qualifier
+[evaluate.dependencies]     from E:\work\repo\builder\sandboxes\tools_trunk\sample\features\com.tibco.sample.feature\feature.xml
+[evaluate.dependencies]   com.tibco.sample.feature.devdocs_1.0.0.qualifier
+[evaluate.dependencies]     from E:\work\repo\builder\sandboxes\tools_trunk\sample\features\com.tibco.sample.feature.devdocs\feature.xml
+[evaluate.dependencies]   com.tibco.sample.feature.source_1.0.0.qualifier
+[evaluate.dependencies]     from E:\work\repo\builder\sandboxes\tools_trunk\sample\features\com.tibco.sample.feature.source\feature.xml
+[evaluate.dependencies]   com.tibco.sample.feature.test_1.0.0.qualifier
+[evaluate.dependencies]     from E:\work\repo\builder\sandboxes\tools_trunk\sample\features\com.tibco.sample.feature.test\feature.xml
+[evaluate.dependencies] Using the following fixed features:
+[evaluate.dependencies]   org.eclipse.cvs.source_1.3.100.v20110520-0800-7B78FHl9VF7BD7KBM4GP9C
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.cvs.source_1.3.100.v20110520-0800-7B78FHl9VF7BD7KBM4GP9C\feature.xml
+[evaluate.dependencies]   org.eclipse.cvs_1.3.100.v20110520-0800-7B78FHl9VF7BD7KBM4GP9C
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.cvs_1.3.100.v20110520-0800-7B78FHl9VF7BD7KBM4GP9C\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.core.feature.source_1.0.1.v20110906-1605-8290FZ9FVKHVRKtmx3fpNuo02129
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.core.feature.source_1.0.1.v20110906-1605-8290FZ9FVKHVRKtmx3fpNuo02129\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.core.feature_1.0.1.v20110906-1605-8290FZ9FVKHVRKtmx3fpNuo02129
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.core.feature_1.0.1.v20110906-1605-8290FZ9FVKHVRKtmx3fpNuo02129\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.extras.feature.source_1.0.1.v20110906-1605-7A4FD4DiVOMap8cHSc6vPuny4gqO
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.extras.feature.source_1.0.1.v20110906-1605-7A4FD4DiVOMap8cHSc6vPuny4gqO\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.extras.feature_1.0.1.v20110906-1605-7A4FD4DiVOMap8cHSc6vPuny4gqO
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.extras.feature_1.0.1.v20110906-1605-7A4FD4DiVOMap8cHSc6vPuny4gqO\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.rcp.feature.source_1.0.1.v20110906-1605-782EqBqNKGVkiV-PUsgz-uny4gqO
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.rcp.feature.source_1.0.1.v20110906-1605-782EqBqNKGVkiV-PUsgz-uny4gqO\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.rcp.feature_1.0.1.v20110906-1605-782EqBqNKGVkiV-PUsgz-uny4gqO
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.rcp.feature_1.0.1.v20110906-1605-782EqBqNKGVkiV-PUsgz-uny4gqO\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.user.ui.source_2.1.2.R37x_v20110815-1155-6-Bk8pYWZz0qUTX5I15GZWwbXkrl
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.user.ui.source_2.1.2.R37x_v20110815-1155-6-Bk8pYWZz0qUTX5I15GZWwbXkrl\feature.xml
+[evaluate.dependencies]   org.eclipse.equinox.p2.user.ui_2.1.2.R37x_v20110815-1155-6-Bk8pYWZz0qUTX5I15GZWwbXkrl
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.equinox.p2.user.ui_2.1.2.R37x_v20110815-1155-6-Bk8pYWZz0qUTX5I15GZWwbXkrl\feature.xml
+[evaluate.dependencies]   org.eclipse.help.source_1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.help.source_1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx\feature.xml
+[evaluate.dependencies]   org.eclipse.help_1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.help_1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx\feature.xml
+[evaluate.dependencies]   org.eclipse.jdt.source_3.7.2.v20120120-1414-7z8gFcuFMP7BW5XTz0jLTnz0l9B1
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.jdt.source_3.7.2.v20120120-1414-7z8gFcuFMP7BW5XTz0jLTnz0l9B1\feature.xml
+[evaluate.dependencies]   org.eclipse.jdt_3.7.2.v20120120-1414-7z8gFcuFMP7BW5XTz0jLTnz0l9B1
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.jdt_3.7.2.v20120120-1414-7z8gFcuFMP7BW5XTz0jLTnz0l9B1\feature.xml
+[evaluate.dependencies]   org.eclipse.pde.source_3.7.2.v20120120-1420-7b7rFUOFEx2Xnqafnpz0E--0
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.pde.source_3.7.2.v20120120-1420-7b7rFUOFEx2Xnqafnpz0E--0\feature.xml
+[evaluate.dependencies]   org.eclipse.pde_3.7.2.v20120120-1420-7b7rFUOFEx2Xnqafnpz0E--0
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.pde_3.7.2.v20120120-1420-7b7rFUOFEx2Xnqafnpz0E--0\feature.xml
+[evaluate.dependencies]   org.eclipse.platform.source_3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.platform.source_3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q\feature.xml
+[evaluate.dependencies]   org.eclipse.platform_3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.platform_3.7.2.v20120207-1839-9gF7UHPDFxGjd-PqDr2jX_4yKaumkoHTz04_q-q\feature.xml
+[evaluate.dependencies]   org.eclipse.rcp.source_3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.rcp.source_3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272\feature.xml
+[evaluate.dependencies]   org.eclipse.rcp_3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.rcp_3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272\feature.xml
+[evaluate.dependencies]   org.eclipse.sdk_3.7.2.r37x_v20111213-7Q7xALDPb32vCjY6UACVPdFTz-icPtJkUadz0lMmk4z-8
+[evaluate.dependencies]     from E:\work\repo\builder\tt\tools\eclipse-sdk-3.7.2\features\org.eclipse.sdk_3.7.2.r37x_v20111213-7Q7xALDPb32vCjY6UACVPdFTz-icPtJkUadz0lMmk4z-8\feature.xml
+[evaluate.dependencies]   com.tibco.tools.he.mock.feature_1
+[evaluate.dependencies]     from <<Unknown location>>
+[evaluate.dependencies] Evaluate dependencies configuration:
+[evaluate.dependencies]   local site cache: E:\work\repo\builder\tt\output\tbuild\workspaceInstaller\local-cache-site
+[evaluate.dependencies]        cache state: LOCAL_AND_REMOTE
+[evaluate.dependencies]          algorithm: lblm
+[evaluate.dependencies] Scanning update sites.
+gather-dependencies:  duration 22 seconds
+
+BUILD FAILED
+
+E:\work\repo\builder\tt\tools\tibco-tools-090\builder\2.1\scripts\private\dependencies.xml:160: java.lang.RuntimeException: Unable to cache site http://spin.tibco.com:8008/milestones/debug/site.xml: 
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:116)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:390)
+	at org.apache.tools.ant.Target.performTasks(Target.java:411)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1399)
+	at org.apache.tools.ant.Project.executeTarget(Project.java:1368)
+	at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1251)
+	at org.apache.tools.ant.Main.runBuild(Main.java:809)
+	at org.apache.tools.ant.Main.startAnt(Main.java:217)
+	at org.apache.tools.ant.launch.Launcher.run(Launcher.java:280)
+	at org.apache.tools.ant.launch.Launcher.main(Launcher.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.tibco.devtools.bootstrap.tools.AntLauncher.invokeAnt(AntLauncher.java:38)
+	at com.tibco.devtools.bootstrap.builder.Builder.main(Builder.java:331)
+Caused by: java.lang.RuntimeException: Unable to cache site http://spin.tibco.com:8008/milestones/debug/site.xml: 
+	at com.tibco.devtools.workspace.installer.standalone.CachedSiteInformation.retrieveSites(CachedSiteInformation.java:253)
+	at com.tibco.devtools.workspace.installer.standalone.CachedSiteInformation.getFeatureVersionSetById(CachedSiteInformation.java:87)
+	at com.tibco.devtools.workspace.installer.standalone.ConstraintSolver.chooseFeature(ConstraintSolver.java:266)
+	at com.tibco.devtools.workspace.installer.standalone.ConstraintSolver.handleConstraintsNewFeature(ConstraintSolver.java:778)
+	at com.tibco.devtools.workspace.installer.standalone.ConstraintSolver.matchOneSetOfConstraints(ConstraintSolver.java:705)
+	at com.tibco.devtools.workspace.installer.standalone.ConstraintSolver.search(ConstraintSolver.java:177)
+	at com.tibco.devtools.workspace.installer.standalone.ConstraintSolver.searchAndWarn(ConstraintSolver.java:208)
+	at com.tibco.devtools.workspace.installer.tasks.EvaluateDependenciesTask.execute(EvaluateDependenciesTask.java:195)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at com.tibco.devtools.workspace.installer.standalone.UrlCache$DefaultUrlAgent.openStream(UrlCache.java:483)
+	at com.tibco.devtools.workspace.installer.standalone.UrlCache.getUrl(UrlCache.java:205)
+	at com.tibco.devtools.workspace.installer.standalone.CachedSiteInformation.getSiteDocument(CachedSiteInformation.java:325)
+	at com.tibco.devtools.workspace.installer.standalone.CachedSiteInformation.getSiteDocumentFromVariousSources(CachedSiteInformation.java:290)
+	at com.tibco.devtools.workspace.installer.standalone.CachedSiteInformation.retrieveSites(CachedSiteInformation.java:216)
+	... 29 more

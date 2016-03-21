@@ -1,0 +1,2 @@
+plugins/com.tibco.sample.plugin/lib http://svn.tibco.com/devtools/trunk/tools/updater/2.0/lib
+plugins/com.tibco.sample.plugin/lib-weaver http://svn.tibco.com/devtools/trunk/tools/weaver/1.6.4/lib

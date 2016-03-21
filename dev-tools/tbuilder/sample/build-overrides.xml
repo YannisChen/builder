@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Simple Sample Overrides">
+
+    <!-- Each Release Unit should change the project name above and the two
+         property definitions below. -->
+    <property name="release-unit" value="common.tools.sample" />
+    <property name="feature" value="com.tibco.sample.feature" />
+
+    <!-- The repository name is only used to separate release unit configurations,
+         preventing confusion of thirdparty common with neo common, for instance. -->
+    <property name="autobuild.repository" value="devtools" />
+
+    <!-- if there is a .devdocs feature, and this property is set, the javadoc
+         for the code feature will be output to this location -->
+    <property location="plugins/docs.com.tibco.sample/html/reference/javadoc"
+              name="javadoc.destination"/>
+    <property location="plugins/sources.com.tibco.sample/src"
+              name="sources.destination"/>
+    <property name="autobuild.version.eclipse"
+              value="3.7" />
+    <property name="autobuild.version.developer.eclipse"
+              value="3.7" />
+
+    <property name="autobuild.svn.tags-prefix" value="/branches" />
+    <property name="autobuild.svn.tags-suffix" value="/tools" />
+    <property name="autobuild.svn.tag-pattern" value="tools.sample" />
+
+
+    <!--property name="autobuild.obfuscator.type" value="proguard" /-->
+    <property name="autobuild.obfuscator.style" value="package" />
+
+    <!-- the properties for using the jdk 1.8 -->
+    <!-- property name="javacSource" value="1.8" />
+    <property name="javacTarget" value="1.8" />
+    <property name="autobuild.jdk.force-18" value="true" /-->
+
+    <property name="autobuild.p2.packaging" value="true" />
+    <property name="assembly.packaging.enable" value="true" />
+
+    <!-- these two can be used to automatically initiate a post-build processing
+         step, which will be invoked on successful completion of the release unit build. -->
+    <!-- property name="autobuild.extension.script" location="SCRIPT_NAME" /-->
+    <!-- property name="autobuild.extension.target" value="TARGET_NAME" /-->
+
+    <!-- for additional information on properties commonly overridden by release units, see:
+         http://wiki.tibco.com/FrameworksWiki/Componentization/Builder -->
+
+    <property name="site.type" value="debug"/>
+    <condition property="reldist.update.site"
+        value="http://reldist.na.tibco.com:${autobuild.spin.port}/reldist/${site.type}"
+        else="http://reldist.na.tibco.com/reldist/${site.type}">
+        <isset property="autobuild.spin.port" />
+    </condition>
+
+    <condition property="devtools.update.site"
+        value="http://spin.tibco.com:${autobuild.spin.port}/devtools/"
+        else="http://spin.tibco.com/devtools/">
+        <isset property="autobuild.spin.port" />
+    </condition>
+
+    <updatesites id="autobuild.workspace.update-sites.list">
+        <updatesite url="${reldist.update.site}"/>
+        <updatesite url="${devtools.update.site}"/>
+        <updatesite url="http://spin.tibco.com/eclipse-3.7/thirdparty"/>
+    </updatesites>
+
+</project>

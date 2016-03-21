@@ -1,3 +1,0 @@
-# This is a sample file with a bad line that should cause known mappings to choke
-com.tibco.tpcl.emf 1.2.0.002 org.eclipse.emf 2.4.0.foo
-com.tibco.tpcl.this.is.bad

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.tibco.sample.feature"
+      label="Simple Sample Feature"
+      version="1.0.0.qualifier"
+      provider-name="TIBCO Software Inc.">
+<requires>
+<import feature="org.eclipse.emf" version="2.7.2" match="compatible"/>
+</requires>
+
+   <plugin
+         id="com.tibco.sample.plugin"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.qualifier"
+         unpack="false"/>
+
+</feature>
+
